@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a7447c1.css",
-    "main.js": "/static/js/main.338d96b3.js",
+    "main.js": "/static/js/main.4aafa882.js",
     "static/media/jamespineirositeimage.webp": "/static/media/jamespineirositeimage.c37deeec5515617f3b7d.webp",
     "static/media/encore.webp": "/static/media/encore.26dce5cfff3b0e8d8b9a.webp",
     "static/media/buildwebsiteaboutpage.webp": "/static/media/buildwebsiteaboutpage.d4a30f579f40c53a8866.webp",
@@ -34,14 +34,15 @@
     "static/media/html.webp": "/static/media/html.a21d7dcdd4c73ef12b79.webp",
     "static/media/typescript.webp": "/static/media/typescript.c2316639b13403161269.webp",
     "static/media/linkedin.webp": "/static/media/linkedin.d0a2ac0d64d0b142e546.webp",
+    "static/media/hyperlink.webp": "/static/media/hyperlink.d5254fe2c7e9e5e3e3c1.webp",
     "static/media/firebase.webp": "/static/media/firebase.8bbb9a49dd537b313607.webp",
     "static/media/git.webp": "/static/media/git.9c0ec88598b4978b71ac.webp",
     "index.html": "/index.html",
     "main.2a7447c1.css.map": "/static/css/main.2a7447c1.css.map",
-    "main.338d96b3.js.map": "/static/js/main.338d96b3.js.map"
+    "main.4aafa882.js.map": "/static/js/main.4aafa882.js.map"
   },
   "entrypoints": [
     "static/css/main.2a7447c1.css",
-    "static/js/main.338d96b3.js"
+    "static/js/main.4aafa882.js"
   ]
 }
