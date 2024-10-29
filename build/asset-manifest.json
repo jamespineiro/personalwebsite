@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a7447c1.css",
-    "main.js": "/static/js/main.4aafa882.js",
+    "main.js": "/static/js/main.14d9480b.js",
     "static/media/jamespineirositeimage.webp": "/static/media/jamespineirositeimage.c37deeec5515617f3b7d.webp",
     "static/media/encore.webp": "/static/media/encore.26dce5cfff3b0e8d8b9a.webp",
     "static/media/buildwebsiteaboutpage.webp": "/static/media/buildwebsiteaboutpage.d4a30f579f40c53a8866.webp",
@@ -11,7 +11,6 @@
     "static/media/jamesphoto1.webp": "/static/media/jamesphoto1.3183d7720f7789127e96.webp",
     "static/media/jamespineirositeimageskills.webp": "/static/media/jamespineirositeimageskills.93736e572924d7641aa5.webp",
     "static/media/pummelpixelsmenu.webp": "/static/media/pummelpixelsmenu.43c76c8a4112a73bc607.webp",
-    "static/media/jamesphoto3.webp": "/static/media/jamesphoto3.bf8a971b7017f07f938a.webp",
     "static/media/pummelpixelsimageingame.webp": "/static/media/pummelpixelsimageingame.9f8caede8b56f8a72922.webp",
     "static/media/alienannihilationphoto.webp": "/static/media/alienannihilationphoto.d223769f6e7e2a6d348a.webp",
     "static/media/alienannihilationphotoingame.webp": "/static/media/alienannihilationphotoingame.19e999468fc012596c17.webp",
@@ -39,10 +38,10 @@
     "static/media/git.webp": "/static/media/git.9c0ec88598b4978b71ac.webp",
     "index.html": "/index.html",
     "main.2a7447c1.css.map": "/static/css/main.2a7447c1.css.map",
-    "main.4aafa882.js.map": "/static/js/main.4aafa882.js.map"
+    "main.14d9480b.js.map": "/static/js/main.14d9480b.js.map"
   },
   "entrypoints": [
     "static/css/main.2a7447c1.css",
-    "static/js/main.4aafa882.js"
+    "static/js/main.14d9480b.js"
   ]
 }
