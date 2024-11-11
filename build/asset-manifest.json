@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a7447c1.css",
-    "main.js": "/static/js/main.14d9480b.js",
+    "main.css": "/static/css/main.79de6102.css",
+    "main.js": "/static/js/main.cc1f471a.js",
     "static/media/jamespineirositeimage.webp": "/static/media/jamespineirositeimage.c37deeec5515617f3b7d.webp",
     "static/media/encore.webp": "/static/media/encore.26dce5cfff3b0e8d8b9a.webp",
     "static/media/buildwebsiteaboutpage.webp": "/static/media/buildwebsiteaboutpage.d4a30f579f40c53a8866.webp",
     "static/media/buildwebsiteprojects.webp": "/static/media/buildwebsiteprojects.98c2506dfc4fb0308b90.webp",
-    "static/media/isenbergPhoto.webp": "/static/media/isenbergPhoto.74416ab6689e1bb55417.webp",
     "static/media/encore3.webp": "/static/media/encore3.5a6fa67c158dbdfd5a56.webp",
     "static/media/jamesphoto1.webp": "/static/media/jamesphoto1.3183d7720f7789127e96.webp",
     "static/media/jamespineirositeimageskills.webp": "/static/media/jamespineirositeimageskills.93736e572924d7641aa5.webp",
     "static/media/pummelpixelsmenu.webp": "/static/media/pummelpixelsmenu.43c76c8a4112a73bc607.webp",
     "static/media/pummelpixelsimageingame.webp": "/static/media/pummelpixelsimageingame.9f8caede8b56f8a72922.webp",
     "static/media/alienannihilationphoto.webp": "/static/media/alienannihilationphoto.d223769f6e7e2a6d348a.webp",
+    "static/media/loop.webp": "/static/media/loop.9a33e8170fde89ec3dea.webp",
     "static/media/alienannihilationphotoingame.webp": "/static/media/alienannihilationphotoingame.19e999468fc012596c17.webp",
     "static/media/java.webp": "/static/media/java.936a770c0be4a74b902a.webp",
+    "static/media/isenbergPhoto.webp": "/static/media/isenbergPhoto.0e28ba6c0cff65beea8b.webp",
     "static/media/c.webp": "/static/media/c.3d64e8dfb2acb5325790.webp",
     "static/media/python.webp": "/static/media/python.17636d0a6b11a7f3f24e.webp",
     "static/media/javascript.webp": "/static/media/javascript.5e207674c82864615b6c.webp",
@@ -37,11 +38,11 @@
     "static/media/firebase.webp": "/static/media/firebase.8bbb9a49dd537b313607.webp",
     "static/media/git.webp": "/static/media/git.9c0ec88598b4978b71ac.webp",
     "index.html": "/index.html",
-    "main.2a7447c1.css.map": "/static/css/main.2a7447c1.css.map",
-    "main.14d9480b.js.map": "/static/js/main.14d9480b.js.map"
+    "main.79de6102.css.map": "/static/css/main.79de6102.css.map",
+    "main.cc1f471a.js.map": "/static/js/main.cc1f471a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a7447c1.css",
-    "static/js/main.14d9480b.js"
+    "static/css/main.79de6102.css",
+    "static/js/main.cc1f471a.js"
   ]
 }
